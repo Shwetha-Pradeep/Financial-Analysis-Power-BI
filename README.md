@@ -34,9 +34,6 @@ The dashboard provides insights into:
 - Product profitability comparison
 - Discount band impact on revenue
 
-## Dashboard Preview
-(Add your dashboard screenshot here)
-
 ## Business Value
 This dashboard helps businesses:
 - Track financial performance
